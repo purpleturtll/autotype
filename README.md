@@ -1,5 +1,13 @@
 # autotype
 Simple automated typing cli, for working with files and clipboard.
+
+Tested on:
+- python 3.9.1
+- pynput 1.7.3
+- click 7.1.2
+- Tcl/Tk 8.6
+
+Usage:
 ```
 Options:
   -c, --clipboard      Use first clipboard value as input instead of a file.
